@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  VPNTest
+
+  Created by Георгий Малюков on 22.12.16.
+  Copyright © 2016 Georgiy Malyukov. All rights reserved.
+*/
+
+"vpnStatus.title" = "VPN Status";
+"vpnStatus.noServer" = "<no server>";
+"vpnStatus.select" = "Select Server";
+"vpnStatus.connect" = "Connect";
+"vpnStatus.disconnect" = "Disconnect";
+"vpnStatus.status.unknown" = "Unknown";
+"vpnStatus.status.disconnected" = "Disconnected";
+"vpnStatus.status.connecting" = "Connecting...";
+"vpnStatus.status.connected" = "Connected!";
+"vpnStatus.status.reasserting" = "Reasserting...";
+"vpnStatus.status.disconnecting" = "Disconnecting...";
+"vpnStatus.serverError" = "No server selected. Please select a VPN server and try again.";
+
+"serversList.title" = "Servers";
+
+"utils.error" = "Error";
+"utils.ok" = "OK";
+"utils.cancel" = "Cancel";
+
+"editServer.title" = "Edit VPN Server";
+"editServer.vpnName" = "VPN Name";
+"editServer.vpnHost" = "VPN Host Address";
+"editServer.remoteId" = "Remote Identifier";
+"editServer.password" = "Password";
+"editServer.fieldsError" = "All fields are required.";
+"editServer.remove" = "Remove VPN Server";
+"editServer.confirm.discard" = "Are you sure want to discard your changes?";
+"editServer.confirm.remove" = "Are you sure want to remove this VPN server? This action can't be undone.";

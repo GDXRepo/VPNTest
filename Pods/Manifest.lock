@@ -1,0 +1,21 @@
+PODS:
+  - IQKeyboardManager (4.0.8)
+  - MBProgressHUD (1.0.0)
+  - RLog (1.0.1)
+  - SAMKeychain (1.5.2)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - MBProgressHUD
+  - RLog
+  - SAMKeychain
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  RLog: a7dc87bc5ed4ea67c18634db92ab7bcb5b1e997f
+  SAMKeychain: 1865333198217411f35327e8da61b43de79b635b
+
+PODFILE CHECKSUM: f159d66f817c2ef7a350ca1e51ee8f9193946bbd
+
+COCOAPODS: 1.0.1
